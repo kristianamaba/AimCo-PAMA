@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "/teachmetutorialarchery.keystore",
+            "storePassword": "aimco_pama",
+            "alias": "appreleasedemoalias",
+            "password" : "aimco_pama",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "/teachmetutorialarchery.keystore",
+            "storePassword": "aimco_pama",
+            "alias": "appreleasedemoalias",
+            "password" : "aimco_pama",
+            "keystoreType": "jks"
+        }
+    }
+}
